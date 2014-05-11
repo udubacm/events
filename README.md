@@ -22,6 +22,7 @@ Submit a pull request to add to the list. Keep the lists chronological by date.
 
 ## Programming Competition Prep
 Note that these resources are in the same repository.  
+
 | Date | Session |
 | :--- | :------ |
 | 04.10.2014 | [Introduction](https://github.com/depstein/programming-competitions) |
