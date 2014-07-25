@@ -11,7 +11,7 @@ Submit a pull request to add to the list. Keep the lists chronological by date.
 ## Career Series
 | Date | Session |
 | :--- | :------ |
-| 10.18.2013 | [Affiliates Career Fair Info Session]() |
+| 10.18.2013 | [Affiliates Career Fair Info Session](https://github.com/japacible/present) |
 
 ## Mobile Development Series
 | Date | Session |
